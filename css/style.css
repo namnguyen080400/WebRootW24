@@ -1,0 +1,37 @@
+
+
+#linkMenu {
+    background-color: chartreuse;
+}
+
+#a {
+    font-size: 20px;
+    background-color: tomato;
+}
+
+#b {
+    font-size: 20px;
+    background-color: lightslategrey;
+}
+
+#c {
+    font-size: 20px;
+    background-color: orchid;
+}
+
+#d {
+    font-size: 20px;
+    background-color: orange;
+}
+
+#e {
+    font-size: 20px;
+    background-color: brown;
+}
+
+body {
+    font-size: 20px;
+    background-color: lawngreen;
+}
+
+
